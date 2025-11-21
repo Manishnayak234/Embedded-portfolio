@@ -9,4 +9,4 @@
 | 06 | Bootloader (UART) | ⏳ Planned |
 | 07 | AUTOSAR SWC Runnable Demo | ⏳ Planned |
 | 08 | MATLAB Simulink Code Generation | ⏳ Planned |
-| 09 | EDR Lite (Crash Data Recorder) | ⏳ Planned |
+| 09 | ACC Lite (Adaptive cruise control) | ⏳ Planned |
